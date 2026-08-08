@@ -1,15 +1,11 @@
-# Hi there, I'm Umar Saeed! 
-
-> **BS AI Student @ MAJU | Full-Stack & AI Developer**  
-> *Passionate about building intelligent systems, full-stack web platforms, and immersive open-world game experiences.* ✨
-
----
 
 ##  About Me
 
+> **BS AI Student @ MAJU | Full-Stack & AI Developer**
+
+- *Passionate about building intelligent systems, full-stack web platforms, and immersive open-world game experiences.* ✨
 - 🎓 Currently pursuing **BS in Artificial Intelligence** at **Mohammad Ali Jinnah University (MAJU)**.
 - ⚡ **Full-Stack Web Dev:** Building dynamic apps using **React, Node.js, Python & Django REST Framework**.
-- 🏋️‍♂️ **Outside Coding:** Powerlifting and tech exploration!
 
 ---
 
@@ -42,22 +38,3 @@
 - 🤖 **AI & Data Science:** Deepening core mathematical foundations, OOP principles, and data manipulation.
 - 🕹️ **Roblox Game:** learning custom map environments, lua scripts, and open-world mechanics.
 
----
-
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=UmarSaeed0065&show_icons=true&theme=tokyonight" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=UmarSaeed0065&theme=tokyonight&layout=compact" alt="Top Languages" width="48%" />
-</p>
----
-
-## 📫 Connect With Me
-
-- 💼 **GitHub:** [github.com/UmarSaeed0065](https://github.com/UmarSaeed0065)
-- 📧 **Email:** *Available on request / GitHub Profile*
-
----
-<p align="center">
-  <i>"Code, Train, Build, Repeat."</i>
-</p>
